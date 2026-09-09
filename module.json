@@ -22,5 +22,6 @@
   "esmodules": [
     "scripts/automation.js",
     "scripts/ancient-warrior.js"
+    "scripts/berserk-charge.js"
   ]
 }
