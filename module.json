@@ -3,10 +3,12 @@
   "title": "Black Crusade Automation",
   "description": "Общая автоматизация Black Crusade для Foundry VTT / Dark Heresy.",
   "version": "0.7.6",
+
   "compatibility": {
     "minimum": "14",
-    "verified": "14"
+    "verified": "14.367"
   },
+
   "relationships": {
     "systems": [
       {
@@ -19,6 +21,19 @@
       }
     ]
   },
+
+  "authors": [
+    {
+      "name": "Black Crusade Automation contributors"
+    }
+  ],
+
+  "url": "https://github.com/nfm1337/black_crusade_automation",
+
+  "manifest": "https://raw.githubusercontent.com/nfm1337/black_crusade_automation/master/module.json",
+
+  "download": "https://github.com/nfm1337/black_crusade_automation/archive/refs/heads/master.zip",
+
   "esmodules": [
     "scripts/automation.js",
     "scripts/ancient-warrior.js",
