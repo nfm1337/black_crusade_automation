@@ -2,7 +2,7 @@
   "id": "black-crusade-automation",
   "title": "Black Crusade Automation",
   "description": "Общая автоматизация Black Crusade для Foundry VTT / Dark Heresy.",
-  "version": "0.7.4",
+  "version": "0.7.5",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
@@ -23,6 +23,7 @@
     "scripts/automation.js",
     "scripts/ancient-warrior.js",
     "scripts/berserk-charge.js",
-    "scripts/catfall.js"
+    "scripts/catfall.js",
+    "scripts/cold-hearted.js"
   ]
 }
